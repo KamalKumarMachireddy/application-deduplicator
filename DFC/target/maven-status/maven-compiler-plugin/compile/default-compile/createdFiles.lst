@@ -1,0 +1,9 @@
+org\example\Categorizer.class
+org\example\DuplicateDetector.class
+org\example\FileScanner.class
+org\example\HashGenerator.class
+org\example\Main.class
+org\example\Logger.class
+org\example\CLI.class
+org\example\RuleLoader.class
+org\example\App.class
