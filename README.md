@@ -27,7 +27,7 @@
 ## Project Structure
 
 ```
-DFC/
+application-deduplicator/
 ├── src/
 │   └── main/
 │       └── java/
